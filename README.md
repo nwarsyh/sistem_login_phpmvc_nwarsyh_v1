@@ -31,7 +31,7 @@ Aplikasi ini adalah Sistem Login dan Registrasi sederhana menggunakan PHP + MySQ
 ### Form Login
 ![Form Login](public/assets/img/ScreenPictureTampilan_1.png)
 ### Form Registrasi
-![Form Registrasi](public/assets/ScreenPictureTampilan_2.png)
+![Form Registrasi](public/assets//img/ScreenPictureTampilan_2.png)
 ### Form Reset Passwordn
 ![Form Reset Password](public/assets/img/ScreenPictureTampilan_3.png)
 ### Laman Profil
